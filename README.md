@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @certified626
-- 👀 I’m interested in personal development 
-- 🌱 I’m currently learning web development 
+- 👋 Hi, Clinton Odhiambo
+- 👀 I’m interested in Tech in healthcare 
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on for future work
 - 📫 How to reach me okothznation@gmail.com
 - 😄 Pronouns: Clint 
