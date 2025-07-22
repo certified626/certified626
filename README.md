@@ -1,12 +1,21 @@
-- 👋 Hi, Clinton Odhiambo
-- 👀 I’m interested in Tech in healthcare 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on for future work
-- 📫 How to reach me okothznation@gmail.com
-- 😄 Pronouns: Clint 
-- ⚡ Fun fact: storyteller 
+👨‍⚕️ About Me  
+Hi! I'm Odhiambo Okoth, a medical student passionate about using tech to improve healthcare. I'm exploring **cloud computing**, **cybersecurity**, and **data science** to build secure, scalable solutions for patient care.
+💡 Interests  
+- Health-Tech Innovation  
+- Cloud Architecture  
+-  Cybersecurity  
+- Medical Data Science  
 
-<!---
-certified626/certified626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 🛠️ Tech Stack  
+- Python • SQL • AWS • Salesforce  
+- UI/UX Design • Apex • Tableau  
+
+ 🌱 Currently Learning  
+- Cybersecurity
+- Data Science
+- AWS Cloud Computing
+- Salesforce Adminstrator
+- 
+📬 Contact  
+- LinkedIn:www.linkedin.com/in/odhiambookoth
+- Email: okothznation@gmail.com
