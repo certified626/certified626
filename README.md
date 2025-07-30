@@ -1,20 +1,14 @@
 👨‍⚕️ About Me  
-Hi! I'm Odhiambo Okoth, a medical student passionate about using tech to improve healthcare. I'm exploring **cloud computing**, **cybersecurity**, and **data science** to build secure, scalable solutions for patient care.
+Hi! I'm Odhiambo Okoth, a medical student passionate about using tech to improve healthcare. I'm exploring **data engineering**, **cybersecurity**, and **data science** to build secure, scalable solutions for patient care.
 💡 Interests  
 - Health-Tech Innovation  
-- Cloud Architecture  
--  Cybersecurity  
+  -  Cybersecurity  
 - Medical Data Science  
 
- 🛠️ Tech Stack  
-- Python • SQL • AWS • Salesforce  
-- UI/UX Design • Apex • Tableau  
-
- 🌱 Currently Learning  
+🌱 Currently Learning  
 - Cybersecurity
 - Data Science
-- AWS Cloud Computing
-- Salesforce Adminstrator
+- Data Engineering
 - 
 📬 Contact  
 - LinkedIn:www.linkedin.com/in/odhiambookoth
